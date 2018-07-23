@@ -5,3 +5,4 @@ Solidifying learnings from the team project of week 2 at Founders and Coders cou
 ## The brief
 * Pick up someone elses code
 * Use test-driven development (TDD) to complete a to-do app
+* Use npm and install tape and tap-spec as your testing framework 
