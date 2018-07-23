@@ -19,5 +19,8 @@ Solidifying learnings from the team project of week 2 at Founders and Coders cou
     "test": "tape *.test.js | tap-spec"
   },
   ```
-  
+ * Ensure that the `test.js` file and `logic.js` files are linked
+   - At the top of `test.js`: require the logic file `var logic = require('./logic');` and the testing framework `var    test = require('tape');`
+   - At the bottom of `logic.js`: `export.module` to make the functions accessible by the `test.js` file  
+ 
  ## 2. Analysing the given code  
