@@ -19,4 +19,5 @@ Solidifying learnings from the team project of week 2 at Founders and Coders cou
     "test": "tape *.test.js | tap-spec"
   },
   ```
-  ## 2. Analysing the given code  
+  
+ ## 2. Analysing the given code  
