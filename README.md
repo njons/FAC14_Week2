@@ -1,2 +1,7 @@
 # FAC14_Week2
-solidifying learnings from week 2 team project by doing it on my own
+
+Solidifying learnings from the team project of week 2 at Founders and Coders course by doing it on my own.
+
+## The brief
+* Pick up someone elses code
+* Use test-driven development (TDD) to complete a to-do app
