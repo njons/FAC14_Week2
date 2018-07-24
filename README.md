@@ -19,6 +19,7 @@ A project to solidify the learnings from the team project in week 2 at the Found
     "test": "tape *.test.js | tap-spec"
   },
   ```
+  
  * Ensure that the `test.js` file and `logic.js` files are linked
    - At the top of `test.js`: require the logic file `var logic = require('./logic');` and the testing framework `var test = require('tape');`
    - At the bottom of `logic.js`: `export.module` to make the functions accessible by the `test.js` file  
@@ -43,3 +44,6 @@ The `logic.js` file contains one object named `var todoFunctions` holding multip
 * **deleteTodo:** removes a specific to-to-element based on its given ID
 * **markTodo:** adds a css class to a specific to-do-element based on its ID to change its style and show it as 'completed'
 * **sortTodos:** sorts the to-do-elements based on tehir 'completed' status
+
+### test.js
+The `test.js` file contain one example test to ensure that the framework is running
