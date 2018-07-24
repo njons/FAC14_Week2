@@ -31,9 +31,9 @@ The given javascript code has been modularised into three files:
 
 ### dom.js 
 The `dom.js` file contains three variables holding a couple of functions, all wrapped in an [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE): 
-* **var createToDoNode** - controlling the creation of each to-do-element and its content
-* **var update** - updates the app to include your latest to-do-items 
-* **var renderState** - creates the `<ul>` element holding your to-do-list and appends it to the DOM
+* **var createToDoNode** = controlling the creation of each to-do-element and its content
+* **var update** = updates the app to include your latest to-do-items 
+* **var renderState** = creates the `<ul>` element holding your to-do-list and appends it to the DOM
 
 ### logic.js
 The `logic.js` file contains one object named `var todoFunctions` holding multiple functions: 
