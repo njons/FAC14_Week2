@@ -16,7 +16,7 @@ A project to solidify the learnings from the team project in week 2 at the Found
   
   ```
   "scripts": {
-    "test": "tape *.test.js | tap-spec"
+    "test": "tape test.js | tap-spec"
   },
   ```
   
