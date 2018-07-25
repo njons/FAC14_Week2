@@ -10,9 +10,10 @@ A project to solidify the learnings from the team project in week 2 at the Found
 ## 1. The setup
 * Created files and copy pasted in the inital code from the exercise files
 * Installed testing framework from the command line: 
-  - Type `npm init -y` to generate an empty `package.json` file
-  - Type `npm tape --save -dev`  and  `npm tap-spec --save -dev` to install them as dependencies only on your computer
-  - Change the `"test:"` line in the `package.json` file to use the right framework
+  - Typed `npm init -y` to generate an empty `package.json` file
+  - Typed `npm tape --save -dev` and `npm tap-spec --save -dev` to install them as dependencies only on your computer
+  - Created a `.gitignore` file and added `node_modules/`
+  - Open the `package.json` and change the `"test:"` line to use the right framework
   
   ```
   "scripts": {
