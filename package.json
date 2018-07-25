@@ -1,0 +1,24 @@
+{
+  "name": "FAC14_Week2",
+  "version": "1.0.0",
+  "description": "solidifying learnings from week 2 team project by doing it on my own",
+  "main": "dom.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njons/FAC14_Week2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njons/FAC14_Week2/issues"
+  },
+  "homepage": "https://github.com/njons/FAC14_Week2#readme",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.9.1"
+  }
+}
